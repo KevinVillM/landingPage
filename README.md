@@ -8,6 +8,8 @@ This is a [Next.js](https://nextjs.org/) project using [React.js](https://reactj
 
 ### Responsive page
 
+
+
 This landing web was created by "mobile first" strategy.
 
 <img src="./documents/responsive-web.gif?raw=true" width="100%" alt="Responsive page" />
